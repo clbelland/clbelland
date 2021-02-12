@@ -1,0 +1,71 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+h1{
+    color: slategray;
+    font-size: 2em;
+}
+h2{
+    color: red;
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: darkslategray;
+    margin-right: 100px;
+}
+ul li{
+    color: gold;
+    font-weight: bold;
+}
+strong {
+    color: goldenrod;
+}
+em{
+    color:teal;
+}
+.contaier{
+    
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+
+.img1 {
+    width: 150px; 
+    height: 100px;
+    float:left; 
+    margin-right: 50px; 
+    margin-bottom: 10px"
+}
+
+.img2 {
+    width: 250px; 
+    height: 150px;
+    float: right; 
+    margin-right: 1100px; 
+    padding-top: 80px;
+    margin-bottom: 30px;
+}
+.text{
+width: 500px; 
+font-size: 15px;
+padding-left: 270px;
+}
+.text2
+{
+    width: 500px;
+    font-size: 15px;
+    padding-top: 40px;
+    padding-left: 30px;
+    padding-right: 160px;
+}
+b {
+    color: darkred;
+    font-weight: bold;
+}
+i{
+    color: gold;
+}
+u{
+    color: darkred;
+}
