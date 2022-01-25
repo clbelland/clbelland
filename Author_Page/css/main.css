@@ -1,4 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Qwitcher+Grypen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Qwitcher+Grypen&family=Roboto:wght@100;400;700&display=swap');
+
+body {
+  padding: 0;
+  margin: 0;
+  line-height: 1.4;
+  font-size: 16px;
+  color: rgb(34, 34, 34);
+  background: #EEEEEE;
+  font-family: 'Roboto', sans-serif;
+  -webkit-transition: all .5s;
+  transition: all .5s;
+}
+
 a {
   text-decoration: none;
   color: inherit;
@@ -43,4 +56,15 @@ a {
   font-size: .8em;
   letter-spacing: 1px;
 }
+h2 {
+  color: #fff;
+  background-color: #981A2F;
+  text-transform: uppercase;
+  padding: 1rem;
+  font-size: 1.5rem;
+}
 
+footer{
+  background-image: url("/Author_Page/images/footer.png");
+  
+}
