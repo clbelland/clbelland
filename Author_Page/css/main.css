@@ -56,6 +56,12 @@ a {
   font-size: .8em;
   letter-spacing: 1px;
 }
+h1 {
+  text-transform: uppercase;
+  position: relative;
+  padding-left: 20rem;
+  padding-top: 2rem;
+}
 h2 {
   color: #fff;
   background-color: #981A2F;
@@ -63,8 +69,37 @@ h2 {
   padding: 1rem;
   font-size: 1.5rem;
 }
+.slideshow{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("/Author_Page/images/book.png");
+  background-position: center;
+  background-size: 100rem;
+  height: 30rem;
+}
+.imgone {
+  background-image: url("/Author_Page/images/chelsea&melissa.jpg");
+  background-size: 20rem;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  padding-left: 50rem;
+  height: 14rem;
+  width: 15rem;
+}
+
+.introduction{
+  padding: 2rem;
+  position: relative;
+  width: 20rem;
+  margin-left: 17rem;
+  overflow: auto;
+  
+}
 
 footer{
   background-image: url("/Author_Page/images/footer.png");
-  
+  position: relative;
+  height: 7rem;
 }
+
+
+
